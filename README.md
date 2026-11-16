@@ -1,7 +1,6 @@
 # FinanceTracker — Download e aggiornamenti
 
 Questo repository contiene esclusivamente pacchetti Windows/macOS e feed di aggiornamento.
-Il codice sorgente viene gestito separatamente nel repository privato.
 
 ## Installazione
 
