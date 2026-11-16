@@ -1,8 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>FinanceTracker — windows</title>
     <language>it</language>
-    <description>Aggiornamenti firmati di FinanceTracker.</description>
+    <item>
+      <title>FinanceTracker 1.0.5</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 16 Nov 2026 15:22:40 +0000</pubDate>
+      <description>Nuova versione di FinanceTracker. Documenti e impostazioni vengono conservati.</description>
+      <enclosure url="https://github.com/simo-dek/FinanceTracker-Releases/releases/download/windows-v1.0.5-build8/FinanceTracker-Windows-x64-1.0.5-8-20261116-152139-Setup.exe" length="14798193" type="application/octet-stream" sparkle:os="windows-x64" sparkle:edSignature="MtHLthHU0DQ1yuUFr4/rE+li86EfsxH1my9z4Zh1Z0z8DgFjKS7jBCp3sqG5A9jKev+D79ILsdUTohfho6+lDA==" sparkle:installerArguments="/SILENT /SP- /NORESTART /UPDATE=1" />
+    </item>
   </channel>
 </rss>
