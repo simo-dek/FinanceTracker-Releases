@@ -4,13 +4,13 @@
     <title>FinanceTracker — windows</title>
     <language>it</language>
     <item>
-      <title>FinanceTracker 1.0.17</title>
-      <sparkle:version>20</sparkle:version>
-      <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+      <title>FinanceTracker 1.0.18</title>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 20 Nov 2026 21:10:44 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 14:14:29 +0000</pubDate>
       <description>Nuova versione di FinanceTracker. Documenti e impostazioni vengono conservati.</description>
-      <enclosure url="https://github.com/simo-dek/FinanceTracker-Releases/releases/download/windows-v1.0.17-build20/FinanceTracker-Windows-x64-1.0.17-20-20261120-210952-Setup.exe" length="15383340" type="application/octet-stream" sparkle:os="windows-x64" sparkle:edSignature="Tc8GP6EBNg+DjrqLkhWfc6M5dl7Y4sj/nwzHvZRHghOEz7ahcP04xUho6KUpS/0F8Aj3dn2XopGv8ious1fXBg==" sparkle:installerArguments="/SILENT /SP- /NORESTART /UPDATE=1" />
+      <enclosure url="https://github.com/simo-dek/FinanceTracker-Releases/releases/download/windows-v1.0.18-build21/FinanceTracker-Windows-x64-1.0.18-21-20261121-141345-Setup.exe" length="15379903" type="application/octet-stream" sparkle:os="windows-x64" sparkle:edSignature="Q65tGb8DsH/uFb9IF4oAmSk9Y08BNTdPYCYQKnqby65B2yjBk11ZhGAK71uzHDTpbLu9zPIrgr7cUIbcFttGBQ==" sparkle:installerArguments="/SILENT /SP- /NORESTART /UPDATE=1" />
     </item>
   </channel>
 </rss>
